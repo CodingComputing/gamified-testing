@@ -172,3 +172,7 @@ Going through this process, you'll get to see for yourself how our testing strea
 >  1. getting a *gamified coding* experience
 
 I'm really excited to go through this with you. In the next post, we'll dive into the project!
+
+---
+
+[Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post02.md)
