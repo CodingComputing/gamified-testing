@@ -263,6 +263,9 @@ It says that this assertion went wrong, which we can see quite clearly.
 
 Feel free to write some more tests with other assertions.
 
+Once you are done with experimenting, delete this file.
+We won't need it in the upcoming parts.
+
 Now that you got a preliminary taste of `pytest`, the plan going ahead is:
 
 1. For each responsibility, we'll pretend that we have working code fulfilling it.
