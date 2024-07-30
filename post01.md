@@ -175,4 +175,5 @@ I'm really excited to go through this with you. In the next post, we'll dive int
 
 ---
 
-[Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post02.md)
+- [Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post02.md)
+- [List of All Posts](https://github.com/CodingComputing/gamified-testing/blob/main/README.md)
