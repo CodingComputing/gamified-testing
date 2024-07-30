@@ -280,4 +280,6 @@ In the next post, I'll be showing you *exactly* how, so stay tuned!
 
 ---
 
-[Previous Post](https://github.com/CodingComputing/gamified-testing/blob/main/post01.md)
+- [Previous Post](https://github.com/CodingComputing/gamified-testing/blob/main/post01.md)
+- [Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post03.md)
+- [List of All Posts](https://github.com/CodingComputing/gamified-testing/blob/main/README.md)
