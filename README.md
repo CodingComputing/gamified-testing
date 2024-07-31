@@ -9,7 +9,7 @@ Let's make testing fun by framing it as a game.
 This is an onging series of posts, with each building upon the last.
 
 > [!TIP]
-> - Latest Post: [Creating our Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post03.md)
+> - Latest Post: [Choosing our Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post04.md)
 > - First Post: ["Ugh! I don't wanna learn this Testing stuff!"](https://github.com/CodingComputing/gamified-testing/blob/main/post01.md)
 
 > [!NOTE]
@@ -18,3 +18,4 @@ This is an onging series of posts, with each building upon the last.
 1. ["Ugh! I don't wanna learn this Testing stuff!"](https://github.com/CodingComputing/gamified-testing/blob/main/post01.md)
 2. [Defining our Coding Game: Cash Dispenser](https://github.com/CodingComputing/gamified-testing/blob/main/post02.md)
 3. [Creating our Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post03.md)
+4. [Choosing our Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post04.md)
