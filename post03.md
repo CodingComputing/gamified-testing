@@ -295,5 +295,5 @@ Next time, we'll crush these 3 missions, and learn amazing `pytest` features.
 ---
 
 - [Previous Post](https://github.com/CodingComputing/gamified-testing/blob/main/post02.md)
-- Next Post (coming soon)
+- [Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post04.md)
 - [List of All Posts](https://github.com/CodingComputing/gamified-testing/blob/main/README.md)
