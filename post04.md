@@ -275,5 +275,5 @@ In the next post, we'll explore some more pytest features, and make the `Money` 
 ---
 
 - [Previous Post](https://github.com/CodingComputing/gamified-testing/blob/main/post03.md)
-- Next Post (coming soon)
+- [Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post05.md)
 - [List of All Posts](https://github.com/CodingComputing/gamified-testing/blob/main/README.md)
