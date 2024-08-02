@@ -360,6 +360,6 @@ Next time, we'll talk about organizing our tests, stay tuned.
 ---
 
 - [Previous Post](https://github.com/CodingComputing/gamified-testing/blob/main/post04.md)
-- Next Post (coming soon)
+- [Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post06.md)
 - [List of All Posts](https://github.com/CodingComputing/gamified-testing/blob/main/README.md)
 
