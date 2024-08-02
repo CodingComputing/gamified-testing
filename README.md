@@ -9,7 +9,7 @@ Let's make testing fun by framing it as a game.
 This is an onging series of posts, with each building upon the last.
 
 > [!TIP]
-> - Latest Post: [Adding Variety to Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post05.md)
+> - Latest Post: [Organizing the Tests](https://github.com/CodingComputing/gamified-testing/blob/main/post06.md)
 > - First Post: ["Ugh! I don't wanna learn this Testing stuff!"](https://github.com/CodingComputing/gamified-testing/blob/main/post01.md)
 
 > [!NOTE]
@@ -20,3 +20,4 @@ This is an onging series of posts, with each building upon the last.
 3. [Creating our Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post03.md)
 4. [Choosing our Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post04.md)
 5. [Adding Variety to Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post05.md)
+6. [Organizing the Tests](https://github.com/CodingComputing/gamified-testing/blob/main/post06.md)
