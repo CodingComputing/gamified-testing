@@ -226,5 +226,5 @@ Next time we'll step up the game and start with the `CashDispenser` component.
 ---
 
 - [Previous Post](https://github.com/CodingComputing/gamified-testing/blob/main/post05.md)
-- Next Post (coming soon)
+- [Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post07.md)
 - [List of All Posts](https://github.com/CodingComputing/gamified-testing/blob/main/README.md)
