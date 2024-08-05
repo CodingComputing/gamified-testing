@@ -1,6 +1,6 @@
 # Gamified Testing
 
-Step in the world of testing with `pytest`.
+Step into the world of testing with `pytest`.
 
 We'll learn testing by building a small project called `Cash Dispenser`.
 
@@ -9,7 +9,7 @@ Let's make testing fun by framing it as a game.
 This is an onging series of posts, with each building upon the last.
 
 > [!TIP]
-> - Latest Post: [Setting Up Missions for Cash Dispenser](https://github.com/CodingComputing/gamified-testing/blob/main/post07.md)
+> - [Fighting the Final Boss](https://github.com/CodingComputing/gamified-testing/blob/main/post08.md)
 > - First Post: ["Ugh! I don't wanna learn this Testing stuff!"](https://github.com/CodingComputing/gamified-testing/blob/main/post01.md)
 
 > [!NOTE]
@@ -22,3 +22,4 @@ This is an onging series of posts, with each building upon the last.
 5. [Adding Variety to Missions](https://github.com/CodingComputing/gamified-testing/blob/main/post05.md)
 6. [Organizing the Tests](https://github.com/CodingComputing/gamified-testing/blob/main/post06.md)
 7. [Setting Up Missions for Cash Dispenser](https://github.com/CodingComputing/gamified-testing/blob/main/post07.md)
+8. [Fighting the Final Boss](https://github.com/CodingComputing/gamified-testing/blob/main/post08.md)
