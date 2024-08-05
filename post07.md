@@ -302,5 +302,5 @@ Stay tuned!
 ---
 
 - [Previous Post](https://github.com/CodingComputing/gamified-testing/blob/main/post06.md)
-- Next Post (coming soon)
+- [Next Post](https://github.com/CodingComputing/gamified-testing/blob/main/post08.md)
 - [List of All Posts](https://github.com/CodingComputing/gamified-testing/blob/main/README.md)
